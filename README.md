@@ -1,4 +1,4 @@
-Thess scripts configure wireguard vpn server and wireguard vpn clients(peers).
+These scripts configure wireguard vpn server and wireguard vpn clients(peers).
 You should run 'wg-server-init-setup.sh' and 'wg-server-final-setup.sh' scripts on the server.
 You should run 'wg-client-setup.sh' on your client.
 
